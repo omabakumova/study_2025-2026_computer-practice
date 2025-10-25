@@ -29,7 +29,7 @@ mainfont: Open Sans Light
 ## Докладчик
 
 :::::::::::::: {.columns align=center}
-::: {.column width="35%"}
+::: {.column width="70%"}
 
   * Абакумова Олеся Максимовна
   * Студентка
@@ -38,7 +38,7 @@ mainfont: Open Sans Light
   * <https://github.com/omabakumova>
 
 :::
-::: {.column width="70%"}
+::: {.column width="30%"}
 
 ![](./image/abakumova.png)
 
